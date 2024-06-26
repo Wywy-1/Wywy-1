@@ -1,10 +1,9 @@
 Hello! 
 
-My name is Wyatt. I'm a PhD student in Indigenous Studies and I code on my spare time. 
-Currently learning Python, and have some experience with Java, Javascript, C, and C#. 
-I can also debug in assembly, but not well.
+My name is Wyatt. I'm a PhD candidate in Indigenous Studies, I code on my spare time for fun! 
+Currently learning Python, I have *some* experience with Java, Javascript, C, C#, and x86 assembly (for debugging C code).
 
-Interested in security, data management/visualization, and making my life easier through coding (e.g., grading participation from zoom data, organizing contracts on my computer, etc.).
+Interested in security, data management/visualization, and making life easier through coding (e.g., automatically grading class participation from zoom data, organizing files automatically on a computer for ease of reference, etc.).
 
 <!---
 Wywy-1/Wywy-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
